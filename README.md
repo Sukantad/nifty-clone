@@ -1,7 +1,52 @@
-# nifty-clone
+## Task
 
-Team Members
-1 Raj Baghel
-2 Shubham K Rai
-3 Sukanta Ghosh
-4 Tarun Tailor
+Our task is that we have to create a pixel perfext clone of the famous project management  website Nifty with basic functionalities and good looking user interface.
+
+## Making
+
+I am a student of a Full Stack Web Development course offered by Masai School. During our construct week, I was assigned a task to create a pixel-perfect clone of Nifty official website. I was given a team of three excluding me. After some meetings and discussions, we started working on it and completed all the given tasks in 4 days.
+
+**Deploy Link :- **https://niftypm-clone.netlify.app/ 
+
+## Landing Page
+
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662833370616/KFNq4_SUR.png" />
+
+## Middle Section
+
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662833535314/0yGLaNdAn.png"/>
+
+## Footer
+
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662833594271/Bwsnudcty.png"/>
+
+## Login
+
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662833696055/PrDlusHYN.png"/>
+
+## Sign Up
+
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662833755056/ARHD9I5BX.png"/>
+
+
+**IDE & TECH TOOL**
+
+- GITHUB
+- VS CODE
+- NETLIFY
+
+**TECHNOLOGIES**
+
+
+- HTML
+- CSS
+- JAVASCRIPT
+- DOM
+- Bootstrap
+- JSON Server 
+- API
+- Heroku
+
+Thank You !
+
+TEAM Nifty.
